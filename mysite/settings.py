@@ -25,7 +25,7 @@ SECRET_KEY = 'd084j72(0c$3+*zgq26m)dy=m580x6&w)9mma1fo!c5-a9drly'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['evalper.pythonanywhere.com/','127.0.0.1']
 
 
 # Application definition
